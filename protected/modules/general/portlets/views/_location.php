@@ -1,0 +1,1 @@
+<li><a onClick="changeCity('<?php echo $model->city;?>')" href="#"><?php echo ucfirst($model->city);?></a></li>

@@ -1,0 +1,24 @@
+<script src="http://code.jquery.com/jquery-1.7.2.js"></script>
+<div class="wrap_layout">
+			<div id="property_search">
+<h1 class="heading">About Us</h1>
+<div class="about_content">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>WALLFEET</span>, an online real estate portal has been created by a team of experts with different thoughts and techniques to serve especially the online real estate buyers, sellers and all people who think of real estate. Though this online portal is new one for us, we have much more experience in off line real estate and have goodwill among the people.
+Having the thought to improve the business and serve the people all over India,
+Wallfeet was kicked off and sure will do the same very sooner.</p>
+<p>Our success and  ability to carve  a name in the market of real estate business is due to set of <span>intrinsic core value of integrity, honesty, trust, transparency and prompt services </span>which has been the backbone of relationship between us and our clients. 
+We have served Individuals, NRI’s and companies who have relied blindly on us and been fully satisfied. Our aim is to grow steadily and become one of the biggest names in the industry. We have planned to open many branches throughout India as soon as possible.</p>
+<p>Wallfeet is a group of professionals working together finding opportunities for our clients so that you can immensely gain on investments. We have the smartest experts who are experienced in analyzing fundamentals and technical aspects about online real estate management. This website is purely dedicated to the persons who are willing to come up in life and increase their earnings in a smart and honest way.</p>
+<p>Wallfeet gives you an opportunity to earn so much which you will find beyond your imagination. Wallfeet is ready to help you, if you have the courage and hope, we have got a way <span>"LET YOUR CASH, WORK FOR YOU"</span> that’s what smart people do. We have our own strategies and plans for investment purposes in the latest trends available</p>
+<p>We have the cutting edge in real-estate in today’s competitive scenario with our personal touch, professional approach, dedicated staff & helpful attitude. We specialize in residential, industrial, commercial, institutional etc. We are a team of professional property consultants who are well versed with all the advantages of  real-estate propositions across residential, commercial and Industrial sphere of India. In possession of an exhaustive listing of all types of lucrative and attractive estate opportunities for sale, purchase and lease or rent, we keep you at bay with the real-estate in the region, so that you never miss a real deal.</p>
+</div>
+<h1 class="heading">Biography</h1>
+<div class="about_content">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi everybody, welcome to my realtor portal website. I Mr. Suresh, founder of Wallfeet website portal. Let me introduce myself, Am not a big personality since now but I hardly hope that this portal ‘Wallfeet’ will raise my career and my growth from my level to highest level I have never reached before’. I planned to earn money in an honest way and will serve right things to my every customer those who are in real needs.</p>
+<p>My childhood was not quite good, normal like others. I faced many challenges, crossed tough thorns in my life path and struggled a lot with the society I am with. My only inspiration is my mother who ran my family with full of confidence. By considering my family background I stopped my studies and started my career as medical representative.</p>
+<p>Still I was not happy because with that, always one thing will be in my mind that is “I Need to achieve more in life and to be in a greater positions in society surrounds me”.  During my young age I used my legs for my travel anywhere instead of going by bus or through any vehicle. I have strong will power that keeps me encouraged towards my dream. The only words will be in my thought is <span>‘Never give up! Never give up! Never giving up my dream for any thing ’.</span></p>
+<p>Yeah! Finally I achieved my goal and I became rich person and got a good position in society and now many people are benefited by me. My prescribed words for all my well wishers, youngsters, achievers are <span>“Don’t lose your hope at any circumstances and fight with the things before you by not giving up”.</span>  While achieving your goal u need to face lots of trouble, hang ups, etc., Be like a race horse, it wont stop the race, since it falls down, the very next minute it survive itself and continue the race towards its achieve point.</p>
+<p>Now I have earned a plenty of money and decided to start more branches all over India with the help of my worker and sales representatives who are professional and very well dedicated. Sure this portal will helps you all and we serve with our best by our honesty and helping tendency to make you richer and profitable.</p>
+</div>
+</div>
+  </div>
