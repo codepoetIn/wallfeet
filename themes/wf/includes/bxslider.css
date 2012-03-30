@@ -1,0 +1,67 @@
+/*Bxslider - Horizontal*/
+.bxslider_horizontal{
+	width:480px;
+	height:80px;
+	margin:0 auto;
+	padding:10px 20px;
+}
+.bxslider_horizontal ul{
+	margin:0px;
+	padding:0px;	
+}
+.bxslider_horizontal li{
+	width:80px;	
+	padding:0 20px;
+	display:block;
+	position:relative;
+}
+
+.bxslider_horizontal .bx-prev{
+	float:left;
+	margin-left:-20px;
+	background:url(../images/arrow_left.png) no-repeat;
+}
+.bxslider_horizontal .bx-next{
+	float:right;
+	margin-right:-20px;	
+	background:url(../images/arrow_right.png) no-repeat;
+}
+
+.bxslider_horizontal .bx-prev,.bxslider_horizontal .bx-next{
+	margin-top:-55px;
+	width:22px;
+	height:22px;
+	display:inline-block;
+}
+
+/*Bxslider - Vertical*/
+
+.bxslider_vertical{
+	width:100px;
+	height:180px;
+	margin:0 auto;
+	padding:0px 10px;
+}
+.bxslider_vertical ul{
+	margin:0px;
+	padding:0px;	
+}
+.bxslider_vertical li{
+	height:90px;	
+}
+
+.bxslider_vertical .bx-prev{
+	background:url(../images/arrow_up.png) no-repeat;
+	margin-top:-210px;
+}
+.bxslider_vertical .bx-next{
+	background:url(../images/arrow_down.png) no-repeat;
+	margin-top:-0px;
+}
+.bxslider_vertical .bx-prev,.bxslider_vertical .bx-next{
+	width:22px;
+	height:22px;
+	display:inline-block;
+	float:left;
+	margin-left:30px;
+}

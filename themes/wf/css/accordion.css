@@ -1,0 +1,35 @@
+.acc {
+    color: #003333;
+    list-style: none outside none;
+    margin: 0 auto;
+    width: 215px;
+	padding-bottom:5px;
+}
+.acc h3 {
+    background: #035ba9;
+    border: 1px solid #9AC1C9;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 5px;
+    padding: 6px 6px 6px 10px;
+    width: 198px;
+	color:#FFF;
+	font-size:15px;
+}
+.acc h3:hover {
+    background: #b60909;
+}
+.acc .acc-section {
+    background: none repeat scroll 0 0 #EAEAEA;
+    overflow: hidden;
+}
+.acc table{ margin-left:15px; margin-top:10px;}
+.acc .acc-content {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-color: -moz-use-text-color #9AC1C9 #9AC1C9;
+    border-right: 1px solid #9AC1C9;
+    border-style: none solid solid;
+    border-width: medium 1px 1px;
+    padding: 15px;
+    width: 425px;
+}

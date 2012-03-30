@@ -1,0 +1,2 @@
+<?php $this->widget('PeopleSearchCriteria',array('modelProperty'=>$modelProperty,'modelUser'=>$modelUser,'modelProfile'=>$modelProfile,'modelSpecialistType'=>$modelSpecialistType)); ?>
+<?php $this->widget('PeopleSearchResults',array('modelProperty'=>$modelProperty,'modelUser'=>$modelUser,'modelProfile'=>$modelProfile,'modelSpecialistType'=>$modelSpecialistType,'users'=>$users,'pagesAgent'=>$pagesAgent,'pagesUser'=>$pagesUser,'pagesBuilder'=>$pagesBuilder,'pagesSpecialists'=>$pagesSpecialists)); ?>
