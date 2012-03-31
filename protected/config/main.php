@@ -273,10 +273,10 @@ return array(
 			),*/
 		// uncomment the following to use a MySQL database
 		'db'=>array(
-			'connectionString' => 'mysql:host=charlie;dbname=wallfeet',
+			'connectionString' => 'mysql:host=localhost;dbname=wallfeet',
 			'emulatePrepare' => true,
-			'username' => 'romeo',
-			'password' => 'romeo',
+			'username' => 'root',
+			'password' => 'password',
 			'charset' => 'utf8',
 			'enableProfiling'=>'true',
 		),
